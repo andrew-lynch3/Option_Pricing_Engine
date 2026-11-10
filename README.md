@@ -1,6 +1,6 @@
 # Option Pricing Engine
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrew-lynch3/option-pricing-engine/blob/main/Option_Pricing_Engine.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrew-lynch3/Option_Pricing_Engine/blob/main/Option_Pricing_Engine.ipynb)
 
 A Python notebook that prices options three independent ways (Black-Scholes, a Cox-Ross-Rubinstein binomial tree, and Monte Carlo simulation), checks the methods against each other, and then applies the engine to a **real option chain**: it backs out implied volatilities, plots the volatility smile, compares model prices with market quotes, and simulates **delta-hedging** a short option to show what the implied-vs-realized volatility gap is worth in dollars.
 
